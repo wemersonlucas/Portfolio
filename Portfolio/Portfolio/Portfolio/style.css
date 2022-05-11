@@ -67,10 +67,6 @@ body{
 .navbar{
     width: 100%;
 }
-#nome{
-    margin-left: 20px;
-}
-
 .nav-link{
     font-size: 24px;
 }
@@ -90,9 +86,15 @@ body{
 .icon:hover{
     color: black;
 }
-#sobre{
+#section{
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
+  
+    margin: 30px;
+}
+
+#section-card{
+    margin-top: 30px;
 }
