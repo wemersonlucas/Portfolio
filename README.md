@@ -14,3 +14,6 @@ https://user-images.githubusercontent.com/35279191/168386393-fee29e95-22e0-4cb9-
 * Bootstrap,
 * Netlify,
 * Godaddy
+
+https://www.wemersonlucas.com/
+https://www.linkedin.com/in/wemerson-lucas-b13aa377/
